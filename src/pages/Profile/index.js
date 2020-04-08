@@ -59,7 +59,7 @@ function Profile() {
             </header>
 
             <h1>Casos Cadastrados</h1>
-
+ 
             <ul>
                 {incidents.map(incident => (
                     <li key={incident.id}>

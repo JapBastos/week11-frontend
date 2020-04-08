@@ -6,7 +6,7 @@ import { FiArrowLeft } from 'react-icons/fi'
 
 import './styles.css'
 import logoImg from '../../assets/logo.svg'
-
+ 
 function NewIncident() {
     const [title, setTitle] = useState('')
     const [description, setDescription] = useState('')

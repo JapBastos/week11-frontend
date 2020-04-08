@@ -12,7 +12,7 @@ function Register() {
     const [email, setEmail] = useState('')
     const [whatsapp, setWhatsapp] = useState('')
     const [city, setCity] = useState('')
-    const [uf, setUf] = useState('') 
+    const [uf, setUf] = useState('')  
 
     const history = useHistory()
 
